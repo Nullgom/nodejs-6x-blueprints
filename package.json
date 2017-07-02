@@ -1,0 +1,31 @@
+{
+  "name": "woodenlog",
+  "version": "1.0.0",
+  "description": "Appress Pro MEAN Stack Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nullgom/woodenlog.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Javascript"
+  ],
+  "author": "Nullgom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nullgom/woodenlog/issues"
+  },
+  "homepage": "https://github.com/Nullgom/woodenlog#readme",
+  "dependencies": {
+    "ansi-styles": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
